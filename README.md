@@ -16,4 +16,4 @@
 ![How does Svelte works](images/How%20does%20Svelte%20works.PNG)
 
 ## 01 - Base Syntax
-[01 - Base Syntax](01%20-%20Base%20Syntax/README)
+[01 - Base Syntax](01%20-%20Base%20Syntax/README.md)
