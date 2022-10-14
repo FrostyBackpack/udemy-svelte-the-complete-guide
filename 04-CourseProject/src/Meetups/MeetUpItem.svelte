@@ -58,7 +58,7 @@
     font-family: "Roboto Slab", sans-serif;
   }
 
-  h1.is-favorite {
+  h1 {
     background: #01a129;
     color: white;
     padding: 0 0.5rem;

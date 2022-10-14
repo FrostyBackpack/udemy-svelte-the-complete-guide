@@ -124,6 +124,15 @@ surge public my-project.surge.sh
 ## Content
 
 [01-Base Styntax](01-BaseSyntax/README.md)
+<br/>
+
 [02-ConditionalsAndLoops](02-ConditionalsAndLoops/README.md)
+<br/>
+
 [03-Reactivity](03-Reactivity/README.md)
+<br/>
+
 [04-CourseProject](04-CourseProject/README.md)
+<br/>
+
+[05-DivingDeeperIntoComponents](05-DivingDeeperIntoComponents/README.md)
