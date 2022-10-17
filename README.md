@@ -136,3 +136,6 @@ surge public my-project.surge.sh
 <br/>
 
 [05-DivingDeeperIntoComponents](05-DivingDeeperIntoComponents/README.md)
+<br/>
+
+[06-CourseProject-ComponentsDeepDive](06-CourseProject-ComponentsDeepDive/README.md)
