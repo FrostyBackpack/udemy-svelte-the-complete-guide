@@ -139,3 +139,6 @@ surge public my-project.surge.sh
 <br/>
 
 [06-CourseProject-ComponentsDeepDive](06-CourseProject-ComponentsDeepDive/README.md)
+<br/>
+
+[07-WorkingwithBindingsAndForms](07-WorkingWithBindingsAndForms/README.md)
