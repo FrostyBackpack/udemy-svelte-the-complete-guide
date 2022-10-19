@@ -145,3 +145,6 @@ surge public my-project.surge.sh
 <br/>
 
 [08-BindingAndForms](08-BindingAndForms/README.md)
+<br/>
+
+[09-ManagingStateAndDataWithStores](09-ManagingStateAndDataWithStores/README.md)
