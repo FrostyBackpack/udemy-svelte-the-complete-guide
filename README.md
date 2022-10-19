@@ -142,3 +142,6 @@ surge public my-project.surge.sh
 <br/>
 
 [07-WorkingwithBindingsAndForms](07-WorkingWithBindingsAndForms/README.md)
+<br/>
+
+[08-BindingAndForms](08-BindingAndForms/README.md)
